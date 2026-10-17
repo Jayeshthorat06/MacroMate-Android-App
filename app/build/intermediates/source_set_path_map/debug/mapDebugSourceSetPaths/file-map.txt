@@ -1,0 +1,7 @@
+com.macromate.app-pngs-0 E:\MacroMateAndroid\app\build\generated\res\pngs\debug
+com.macromate.app-resValues-1 E:\MacroMateAndroid\app\build\generated\res\resValues\debug
+com.macromate.app-packageDebugResources-2 E:\MacroMateAndroid\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.macromate.app-packageDebugResources-3 E:\MacroMateAndroid\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.macromate.app-debug-4 E:\MacroMateAndroid\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.macromate.app-debug-5 E:\MacroMateAndroid\app\src\debug\res
+com.macromate.app-main-6 E:\MacroMateAndroid\app\src\main\res

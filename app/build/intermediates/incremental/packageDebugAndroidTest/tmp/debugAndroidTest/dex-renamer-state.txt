@@ -1,0 +1,4 @@
+#Sat Oct 17 12:10:40 IST 2026
+base.0=E\:\\MacroMateAndroid\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
